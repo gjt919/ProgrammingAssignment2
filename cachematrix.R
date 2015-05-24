@@ -1,4 +1,3 @@
-## Put comments here that give an overall description of what your
 ## cachematrix.R
 ## 23 May 2015
 ## Programming Assignment 02
